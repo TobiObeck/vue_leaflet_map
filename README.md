@@ -1,4 +1,8 @@
-# Demo
+# vue_leaflet_map
+
+> A Vue.js project that lets you add puspins at specifiy coordinates on a leaflet map.
+
+## Demo
 
 https://tobiobi.github.io/
 
@@ -9,11 +13,6 @@ http://jsfiddle.net/tobiobeck/s1yo9scr/
 Simple Leaflet application for understanding leaflet and geocoordinats:
 
 http://jsfiddle.net/tobiobeck/27z3u8cx/
-
-
-# vue_leaflet_map
-
-> A Vue.js project
 
 ## Build Setup
 
