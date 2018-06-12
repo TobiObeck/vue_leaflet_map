@@ -10,7 +10,7 @@ Similiar Application without single file components:
 
 http://jsfiddle.net/tobiobeck/s1yo9scr/
 
-Simple Leaflet application for understanding leaflet and geocoordinats:
+Simple Leaflet application for understanding leaflet and geocoordinates (plain js+leaflet without vue):
 
 http://jsfiddle.net/tobiobeck/27z3u8cx/
 
