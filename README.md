@@ -2,8 +2,14 @@
 
 https://tobiobi.github.io/
 
-Similiar Application without single file components
+Similiar Application without single file components:
+
 http://jsfiddle.net/tobiobeck/s1yo9scr/
+
+Simple Leaflet application for understanding leaflet and geocoordinats:
+
+http://jsfiddle.net/tobiobeck/27z3u8cx/
+
 
 # vue_leaflet_map
 
