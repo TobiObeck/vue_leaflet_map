@@ -4,7 +4,7 @@
 
 ## Demo
 
-https://tobiobi.github.io/
+https://tobiobeck.github.io/
 
 Similiar Application without single file components:
 
